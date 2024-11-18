@@ -13,6 +13,11 @@ A simple and efficient Notes App built with **React**, where users can easily cr
 - **localStorage**: Used to persist data in the browser across page reloads.
 - **CSS**: For styling the user interface.
 
+## Screenshots 📸
+
+![notemaster](https://github.com/user-attachments/assets/4d832335-caa8-46ba-a276-c7eb722004cf)
+
+
 
 ## Installation Instructions 🚀
 
