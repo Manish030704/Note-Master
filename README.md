@@ -17,30 +17,38 @@ A simple and efficient Notes App built with **React**, where users can easily cr
 
 ![notemaster](https://github.com/user-attachments/assets/4d832335-caa8-46ba-a276-c7eb722004cf)
 
-
-
 ## Installation Instructions 🚀
 
 To get the Notes App running locally on your machine, follow these steps:
 
-1. Clone the repository
-  **git clone https://github.com/Manish030704/Note-Master.git**
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Manish030704/Note-Master.git
+   ```
 
-2. Navigate into the project directory
-   **cd Note-Master**
+2. Navigate into the project directory:
+   ```bash
+   cd Note-Master
+   ```
 
-3. Install the dependencies using npm
-  **npm install**
+3. Install the dependencies using npm:
+   ```bash
+   npm install
+   ```
 
-4. Start the development server
-   **npm start**
+4. Start the development server:
+   ```bash
+   npm start
+   ```
    or
-   **npm run dev**
+   ```bash
+   npm run dev
+   ```
 
-5.Running the Application
+5. Running the Application
 
 Once you have followed the installation steps and started the development server, you can access the Notes App at:
-
-   **http://localhost:5173/**
-
+   ```bash
+   http://localhost:5173/
+   ```
 
